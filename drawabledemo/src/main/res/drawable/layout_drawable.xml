@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/xiangkuang"
+        android:drawable="@drawable/xiangkuang" />
+    <item
+        android:id="@+id/tupian"
+        android:bottom="125dp"
+        android:drawable="@drawable/tu2"
+        android:left="105dp"
+        android:right="120dp"
+        android:top="110dp" />
+</layer-list>
